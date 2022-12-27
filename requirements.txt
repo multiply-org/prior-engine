@@ -4,7 +4,7 @@ shapely==1.6
 h5py==2.8
 pandas==0.22
 scipy==0.22
-setuptools==40.8
+setuptools==65.5.1
 matplotlib==2.2
 pytest==4.6
 gdal==2.4
